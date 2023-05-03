@@ -1,0 +1,12 @@
+{
+    "pages":{
+        "about":"aboutMe",
+        "contact":"contactMe",
+        "resume":"resumeMe",
+        "portfolio":"portfolio"
+    },
+    "bio": "lorem",
+    "contact": "lorem",
+    "resume": "resume",
+    "portfolio": "portfolio"
+}
